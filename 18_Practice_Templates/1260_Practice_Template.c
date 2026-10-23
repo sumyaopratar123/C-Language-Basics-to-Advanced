@@ -1,0 +1,11 @@
+/*
+Practice template 70
+TASK: Search for an element in an array.
+This is a starter scaffold; implement the task yourself.
+*/
+#include <stdio.h>
+int main(void) {
+    puts("Practice task 70: Search for an element in an array.");
+    /* TODO: Read input, solve the task, and print the result. */
+    return 0;
+}
